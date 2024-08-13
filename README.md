@@ -4,7 +4,7 @@ TIME=`date +"%Y-%m-%d_%H-%M"`
 LOG_FILE="/mnt/pgsql.log"
 MOUNT_POINT1="/mnt/backup/PgSql/pgsql"
 # Telegram Bot API параметры
-TOKEN="22222222:111111111eejccLggbvO22222222"
+TOKEN="22222222:111111111dsdfsgO22222222"
 CHAT_ID="111111111"
 SCRIPT_NAME="Резервное копирование 1c8c_PG_everyday:\Rabota"
 
